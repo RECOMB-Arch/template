@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## About RECOMB-ARCH
+## Home
 
 ### {{ site.iteration }} RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads 
 
