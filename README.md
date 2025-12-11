@@ -11,8 +11,8 @@ Most dates and links are defined as custom variables in _config.yml. Simply modi
 
 Variables to edit:
 
-title: RECOMB-Seq 2026  
-iteration: "16th"  
+title: RECOMB-Arch 2026  
+iteration: "1st"  
 location: "Thessaloniki, Greece"  
 dates: May 24-25, 2026  
 year: "2026"  
@@ -20,8 +20,8 @@ pc_chair1: "Victoria Popic"
 pc_chair2: "Kristoffer Sahlin"  
 
 author:  
-   name: RECOMB-Seq Conference  
-   email: recombseq@gmail.com  
+   name: RECOMB-Arch Conference  
+   email: recombarch@gmail.com  
   
 deadlines:  
   abstract_submission: "TBA, 23:59 AoE"  
