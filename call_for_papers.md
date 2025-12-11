@@ -40,7 +40,7 @@ We solicit contributions in three categories (“tracks”) as follows.
 
 ### Proceedings Track
 
-Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the journal iScience. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at RECOMB-Arch. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
+Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the journal iScience. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at {{ site.title }}. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
 
 To indicate your submission should be considered for the proceedings track, please include “[Proceedings]” at the end of the paper title.
 
@@ -73,7 +73,7 @@ Authors who do not wish their manuscript to be considered for iScience should us
 
 Manuscripts for the “proceedings track” should not exceed 10 pages using at least 10-point font on U.S. standard 8 1/2 by 11-inch paper with no less than one-inch margin all around. This excludes the cover page and references. The cover page should have the title, the corresponding author’s email address, and the abstract. An optional short appendix can be included if necessary, but reading it will be at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system.
 
-In EasyChair, please select {{ site.title }} {{site.year}}” track when you click “New Submission” in the “author” portal within the RECOMB conference at {{ site.links.easychair }}.
+In EasyChair, please select {{ site.title }} {{site.year}}” track when you click “New Submission” in the “author” portal within the [RECOMB conference](site.links.easychair).
 
 Authors **must post their submission on a preprint server like bioRxiv**. They should not assume that a formal proceedings volume will be published, as a final decision is still pending. All accepted papers will have opportunities for publication through our journal partners.
 

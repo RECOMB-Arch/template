@@ -9,7 +9,7 @@ title: Committees
 - [Christina Boucher](https://www.christinaboucher.com/), University of Florida
 - [Paul Medvedev](https://medvedevgroup.com/), Pennsylvania State University
 - [Nadia Pisanti](https://pages.di.unipi.it/pisanti/),	University of Pisa
-- [Alex Schönhuth](https://homepages.cwi.nl/~as/),	Bielefeld University 
+- [Alex Schönhuth](TODO https://homepages.cwi.nl/~as/),	Bielefeld University 
 
 ## Program Chairs
 
