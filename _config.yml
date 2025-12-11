@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: RECOMB-Arch
+title: RECOMB-ARCH
 year: 2026
 dates: May 24-25, 2026
 iteration: "16th"
@@ -11,7 +11,7 @@ pc_chair2: "Kristoffer Sahlin"
 
 #
 author:
-  name: RECOMB-Arch Conference
+  name: RECOMB-ARCH Conference
   email: recombarch@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
