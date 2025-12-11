@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 #
-title: RECOMB-Seq
+title: RECOMB-Arch
 year: 2026
 dates: May 24-25, 2026
 iteration: "16th"
@@ -11,8 +11,8 @@ pc_chair2: "Kristoffer Sahlin"
 
 #
 author:
-  name: RECOMB-Seq Conference
-  email: recombseq@gmail.com
+  name: RECOMB-Arch Conference
+  email: recombarch@gmail.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -70,16 +70,16 @@ minima:
 social_links:
   - title: Email
     icon: envelope
-    url: "mailto:recombseq@gmail.com"
-  - title: RECOMB-Seq at X
+    url: "mailto:recombarch@gmail.com"
+  - title: RECOMB-Arch at X
     icon: x-twitter
-    url: "https://x.com/RECOMBseq"
-  - title: RECOMB-Seq at BlueSky
+    url: "https://x.com/RECOMBarch"
+  - title: RECOMB-Arch at BlueSky
     icon: bluesky
-    url: "https://bsky.app/profile/recombseq.bsky.social"
-  - title: RECOMB-Seq at LinkedIn
+    url: "https://bsky.app/profile/recombarch.bsky.social"
+  - title: RECOMB-Arch at LinkedIn
     icon: linkedin
-    url: "https://www.linkedin.com/groups/15794046/"
+    url: "https://www.linkedin.com/groups/16421006/"
 #
 #   Hide syndication feed subscription link.
 #     RSS / Atom feed link is always rendered as the last item of social-links
