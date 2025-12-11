@@ -5,23 +5,14 @@ title: Call for Papers
 
 ## Overview
 
-The {{site.iteration}} RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-seq {{site.year}}) will be held on {{site.dates}} in {{site.location}}, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for the analysis, management, inference, and interpretation of sequencing data as well as assembled genomes.
+The {{site.iteration}} RECOMB Satellite Conference on Hardware Acceleration of Bioinformatics Workloads ({{ site.title }} {{site.year}}) will be held on {{site.dates}} in {{site.location}}, just before the main RECOMB conference. The conference brings together leading researchers in computational genomics and genomic biology. The emphasis will be on new algorithmic and statistical methods for the analysis, management, inference, and interpretation of sequencing data as well as assembled genomes.
 
 
 ## Topics
 
 Papers reporting on original research (both theoretical and applied) in all areas of computational molecular biology are suitable for submission. Topics of interest include, but are not limited to:
 
-- Sequence alignment and assembly
-- Summarization, comparison, and visualization of big genomics datasets
-- Multiple alignment and consensus sequence construction
-- Methods for calling and characterizing genetic variants, including structural variants
-- Methods for analysis of RNA sequencing (RNA-seq) data, including single-cell RNA-seq
-- Epigenetics and gene regulation, including ChIP-seq analysis, methylation profiling, and histone modification
-- Metagenomics
-- Methods for analysis of data from other novel sequencing assays
-- Translational applications of sequencing data, including cancer genomics and infectious disease
-- Pan-genomics, genome graphs, and novel uses of new genome assemblies
+- TODO
 
 ### Key Dates
 
@@ -45,7 +36,7 @@ We solicit contributions in three categories (“tracks”) as follows.
 
 ### Proceedings Track
 
-Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the journal iScience. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at RECOMB-seq. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
+Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the journal iScience. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at RECOMB-Arch. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
 
 To indicate your submission should be considered for the proceedings track, please include “[Proceedings]” at the end of the paper title.
 
@@ -63,7 +54,7 @@ Regular abstracts describing original work, including software applications. The
 
 All submissions to the proceedings track will be simultaneously considered for publication in a special issue of the journal iScience if the authors agree. iScience is an open-access journal published by Cell Press for original research in the life, physical, and earth sciences.
 
-In addition to the program committee of RECOMB-seq, editors of iScience will evaluate the proceedings-track papers for biological impact and suitability for publication. In particular, the following criteria will be used to evaluate the biological relevance:
+In addition to the program committee of {{ site.title }}, editors of iScience will evaluate the proceedings-track papers for biological impact and suitability for publication. In particular, the following criteria will be used to evaluate the biological relevance:
 
 - Can inputs be found through experiments?
 - Can outputs be used directly in future experiments or analyses?
@@ -78,7 +69,7 @@ Authors who do not wish their manuscript to be considered for iScience should us
 
 Manuscripts for the “proceedings track” should not exceed 10 pages using at least 10-point font on U.S. standard 8 1/2 by 11-inch paper with no less than one-inch margin all around. This excludes the cover page and references. The cover page should have the title, the corresponding author’s email address, and the abstract. An optional short appendix can be included if necessary, but reading it will be at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system.
 
-In EasyChair, please select “RECOMB-seq {{site.year}}” track when you click “New Submission” in the “author” portal within the RECOMB conference at {{ site.links.easychair }}.
+In EasyChair, please select {{ site.title }} {{site.year}}” track when you click “New Submission” in the “author” portal within the RECOMB conference at {{ site.links.easychair }}.
 
 Authors **must post their submission on a preprint server like bioRxiv**. They should not assume that a formal proceedings volume will be published, as a final decision is still pending. All accepted papers will have opportunities for publication through our journal partners.
 
