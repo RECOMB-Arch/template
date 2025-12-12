@@ -6,15 +6,13 @@ title: Committees
 ## Steering Committee
 
 - [Can Alkan](http://alkanlab.org/), Bilkent University
-- [Christina Boucher](https://www.christinaboucher.com/), University of Florida
-- [Paul Medvedev](https://medvedevgroup.com/), Pennsylvania State University
-- [Nadia Pisanti](https://pages.di.unipi.it/pisanti/),	University of Pisa
-- [Alex Schönhuth](TODO https://homepages.cwi.nl/~as/),	Bielefeld University 
+- [Onur Mutlu](https://safari.ethz.ch/), ETH Zurich
+- [Ibrahim Numanagić](https://saray.ca/~ibrahim/), University of Victoria
+- [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego
 
-## Program Chairs
+## Program Chair
 
- - [Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic), Broad Institute	
- - [Kristoffer Sahlin](https://sahlingroup.github.io/), Stockholm University
+ - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego
 
 ### Program Committee
 
