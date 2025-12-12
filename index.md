@@ -15,6 +15,7 @@ For more about our history, see our history page or our YouTube channel.
 ### Contact details
 
 - X: [@RECOMBArch](https://twitter.com/recombarch)
-- Bluesky: [@RECOMBArch](TODO https://bsky.app/profile/recombarch.bsky.social)
 - YouTube: [@RECOMBArch](https://www.youtube.com/@recomb-arch)
 - LinkedIn: [RECOMBArch](https://www.linkedin.com/groups/16421006)
+
+<!-- - Bluesky: [@RECOMBArch](TODO https://bsky.app/profile/recombarch.bsky.social) -->
