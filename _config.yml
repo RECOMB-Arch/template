@@ -74,12 +74,14 @@ social_links:
   - title: RECOMB-Arch at X
     icon: x-twitter
     url: "https://x.com/RECOMBarch"
-  - title: RECOMB-Arch at BlueSky
-    icon: bluesky
-    url: "TODO https://bsky.app/profile/recombarch.bsky.social"
   - title: RECOMB-Arch at LinkedIn
     icon: linkedin
     url: "https://www.linkedin.com/groups/16421006/"
+
+#  - title: RECOMB-Arch at BlueSky
+#    icon: bluesky
+#    url: "TODO https://bsky.app/profile/recombarch.bsky.social"
+
 #
 #   Hide syndication feed subscription link.
 #     RSS / Atom feed link is always rendered as the last item of social-links
