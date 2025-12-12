@@ -12,11 +12,35 @@ The {{site.iteration}} RECOMB Satellite Conference on Hardware Acceleration of B
 
 ## Topics
 
-Papers reporting on original research (both theoretical and applied) in all areas of computational molecular biology are suitable for submission. Topics of interest include, but are not limited to:
+Papers reporting on original research on acceleration of computing in all areas of computational molecular biology are suitable for submission. The emphasis will be on new hardware-algorithm co-design, hardware accelerators (e.g., FPGA, NPU, GPU, PIM),  and domain-specific languages for bioinformatics workloads.
 
-- TODO
-- TODO
-- TODO
+Topics of interest include, but are not limited to:
+
+#### Hardware-Accelerated Genomic Data Processing
+- Optimized hardware/algorithms for read mapping, whole-genome alignment, and de novo assembly acceleration
+- Architectures for high-throughput genomic data streaming and pre-processing (e.g., base calling, demultiplexing)
+#### Hardware Acceleration Techniques and Architectures
+- FPGA, GPU, ASIC, PIM (Processing-In-Memory), and NPU (Neural Processing Unit) accelerators for core bioinformatics algorithms
+- Hardware/software co-design for computational biology
+- Domain-Specific Architectures (DSAs) for bioinformatics workloads (e.g., aligners, variant callers)   
+- Novel memory architectures and I/O optimization for large genomic datasets
+#### Accelerating Downstream Bioinformatics Analysis
+- Hardware-aware algorithms for metagenomics, pan-genomics, and genome graph traversal
+- High-speed solutions for single-cell and spatial transcriptomics data processing (e.g., UMI counting, clustering, dimensionality reduction)
+- Structural biology and drug design
+Optimization of machine learning/deep learning models (e.g., CNNs, RNNs, Transformers) used in omics for specialized hardware
+####  Tools, Languages, and Infrastructure
+Domain-Specific Languages (DSLs) and high-level synthesis tools for programming bioinformatics hardware accelerators
+Static and dynamic optimization passes for bioinformatics workloads
+Optimized Application Programming Interfaces (APIs) for heterogeneous computing platforms for bioinformatics pipelines
+Benchmarking, performance modeling, and energy-efficiency analysis of bioinformatics accelerators
+Cloud and edge computing architectures for accelerated bioinformatics
+#### Specific Accelerated Bioinformatics Workloads
+- Accelerating dynamic programming algorithms (e.g., Smith-Waterman, Needleman-Wunsch) and their approximations
+- Efficient hardware implementations of compression algorithms for genomic data
+- Accelerated methods for genome-wide association studies (GWAS) and population genetics
+- Hardware-optimized data structures (e.g., k-mer indices, Bloom filters, FM-index, learned indexes)
+
 
 ### Key Dates
 
@@ -25,7 +49,6 @@ Proceedings and Overlay tracks
 - **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
 - **Full paper submission deadline**: {{ site.deadlines.paper_submission }}
 - **Author notification**: {{ site.deadlines.author_notification }}
-- **Final version due**: {{ site.deadlines.final_version }}
 - **Conference dates**: {{ site.deadlines.conference_dates }}
 
 Short talks / Posters 
@@ -40,7 +63,7 @@ We solicit contributions in three categories (“tracks”) as follows.
 
 ### Proceedings Track
 
-Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the journal iScience. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at {{ site.title }}. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
+Manuscripts describing original work on computational aspects of genomic research involving large genomic datasets. Manuscripts in this track will be considered for publication in a special issue of the Bioinformatics journal. At the time of submission, and for the entire review period, the work should not be under review by any other conference or scientific journal. In some rare cases, manuscripts may be deemed to not be suitable for iScience after review but still invited for an oral presentation at {{ site.title }}. In this case, authors will be required to post their manuscripts on a public preprint server (bioRxiv, arXiv, etc.) prior to the conference.
 
 To indicate your submission should be considered for the proceedings track, please include “[Proceedings]” at the end of the paper title.
 
@@ -54,20 +77,16 @@ To indicate your submission should be considered for the overlay track, please i
 
 Regular abstracts describing original work, including software applications. These will be considered for short oral presentations or posters. A 1-2 page abstract describing the methods and key results should be submitted via the EasyChair system.
 
-## Partnership with iScience
+## Partnership with Bioinformatics
 
-All submissions to the proceedings track will be simultaneously considered for publication in a special issue of the journal iScience if the authors agree. iScience is an open-access journal published by Cell Press for original research in the life, physical, and earth sciences.
+All submissions to the proceedings track will be simultaneously considered for publication in a special issue of the journal Bioinformatics if the authors agree. Bioinformatics is an open-access journal published by Oxford University Press for original research in developments in bioinformatics.
 
-In addition to the program committee of {{ site.title }}, editors of iScience will evaluate the proceedings-track papers for biological impact and suitability for publication. In particular, the following criteria will be used to evaluate the biological relevance:
+In addition to the program committee of RECOMB-Arch, editors of Bioinformatics will evaluate the proceedings-track papers for biological impact and suitability for publication. In particular, the following criteria will be used to evaluate relevance:
 
-- Can inputs be found through experiments?
-- Can outputs be used directly in future experiments or analyses?
-- Can outputs be obtained through a well-established methodology for less cost?
-- Is the methodology proposed applicable in useful settings?
-- Do biological data support the study?
-- Is biological variability sufficiently accounted for?
+Is the methodology proposed applicable in useful and practical settings and is it open source?
+Actual biological data must be used and, in appropriate cases, can be complemented with simulated data.
 
-Authors who do not wish their manuscript to be considered for iScience should use the overlay track for submission. Publication in iScience is subject to an Open Access charge of approximately $1500 (a 50% discounted rate for the conference proceedings). Reduced Open Access charges for authors in developing countries and others in financial hardship are available.
+Authors who do not wish their manuscript to be considered for Bioinformatics should use the overlay track for submission. Publication in Bioinformatics is subject to an Open Access charge. Reduced Open Access charges are available for authors in developing countries and others experiencing financial hardship, and a 15% discount is available for ISCB members.
 
 ## Submission Guidelines
 
@@ -92,7 +111,7 @@ There is a mandatory abstract submission deadline on **{{ site.deadlines.abstrac
 
 ### Contact
 
-All questions about submissions should be emailed to the [{{site.pc_chair1}}]({{ site.links.pc_chair1 }}) or [{{site.pc_chair2}}]({{ site.links.pc_chair2 }}).
+All questions about submissions should be emailed to the PC Chair, [{{site.pc_chair1}}]({{ site.links.pc_chair1 }}).
 
 
 

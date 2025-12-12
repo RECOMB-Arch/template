@@ -3,11 +3,11 @@
 #
 title: RECOMB-ARCH
 year: 2026
-dates: May 24-25, 2026
-iteration: "16th"
+dates: May 24, 2026
+iteration: "1st"
 location: "Thessaloniki, Greece"
-pc_chair1: "Victoria Popic"
-pc_chair2: "Kristoffer Sahlin"
+pc_chair1: "Yatish Turakhia"
+pc_chair2: ""
 
 #
 author:
@@ -133,12 +133,11 @@ deadlines:
   author_notification: "TBA"
   poster_and_short_talk_submission: "TBA"
   poster_and_short_talk_notification: "TBA"
-  conference_dates: "24-25 May 2026"
+  conference_dates: "24 May 2026"
 
 links:
   easychair: "https://easychair.org/conferences/?conf=recomb2026"
-  pc_chair1: "mailto:vpopic@broadinstitute.org"
-  pc_chair2: "mailto:krsahlin@gmail.com"
+  pc_chair1: "mailto:yturakhia@ucsd.edu"
 #  nav_pages:
 #     - about.md
 #     - committes.md
