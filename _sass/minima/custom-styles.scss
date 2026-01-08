@@ -10,13 +10,13 @@
 /* 1. Header & Logo Customization
    ========================================================================== */
 .site-header {
-  border-top-color: #0d6efd; // RECOMB blue border
+  border-top: none; // RECOMB blue border
   border-bottom-color: #dee2e6; // Lighter grey border
 }
 
 .recomb-logo {
   height: auto;
-  width: 200px;
+  width: 150px;
   margin-top: 5px; // Adjust vertical alignment
   margin-right: 20px;
 }
